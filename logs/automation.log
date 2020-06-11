@@ -1,0 +1,7 @@
+INFO  [main]:07 Jun 2020 12:04:57,028 Steps.java(36)  - ===I am before hook. I get executed before every scenario==============
+INFO  [main]:07 Jun 2020 12:04:57,038 PropertiesUtil.java(17)  - Starting to read properties file
+INFO  [main]:07 Jun 2020 12:04:57,038 PropertiesUtil.java(34)  - Completed reading properties file and all properties are loaded into System properties succesfully
+INFO  [main]:07 Jun 2020 12:05:22,587 Steps.java(73)  - Page Title Is : My Store
+INFO  [main]:07 Jun 2020 12:05:24,374 Steps.java(112)  - "Expected Title : " + expectedTitle
+INFO  [main]:07 Jun 2020 12:05:24,374 Steps.java(115)  - Actual Title : Login - My Store
+INFO  [main]:07 Jun 2020 12:05:24,379 Steps.java(229)  - ===I am after hook. I get executed after every scenario==============
