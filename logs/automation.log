@@ -1,14 +1,14 @@
-INFO  [main]:13 Jun 2020 12:22:27,151 Steps.java(36)  - ===I am before hook. I get executed before every scenario==============
-INFO  [main]:13 Jun 2020 12:22:27,160 PropertiesUtil.java(17)  - Starting to read properties file
-INFO  [main]:13 Jun 2020 12:22:27,161 PropertiesUtil.java(34)  - Completed reading properties file and all properties are loaded into System properties succesfully
-INFO  [main]:13 Jun 2020 12:22:41,644 Steps.java(73)  - Page Title Is : My Store
-INFO  [main]:13 Jun 2020 12:22:43,949 Steps.java(112)  - "Expected Title : " + expectedTitle
-INFO  [main]:13 Jun 2020 12:22:43,950 Steps.java(115)  - Actual Title : Login - My Store
-INFO  [main]:13 Jun 2020 12:22:43,955 Steps.java(229)  - ===I am after hook. I get executed after every scenario==============
-INFO  [main]:13 Jun 2020 12:22:45,883 Steps.java(36)  - ===I am before hook. I get executed before every scenario==============
-INFO  [main]:13 Jun 2020 12:22:45,884 PropertiesUtil.java(17)  - Starting to read properties file
-INFO  [main]:13 Jun 2020 12:22:45,885 PropertiesUtil.java(34)  - Completed reading properties file and all properties are loaded into System properties succesfully
-INFO  [main]:13 Jun 2020 12:22:56,696 Steps.java(73)  - Page Title Is : My Store
-INFO  [main]:13 Jun 2020 12:22:59,125 Steps.java(154)  - Actual Results Str : 4 results have been found.
-INFO  [main]:13 Jun 2020 12:22:59,126 Steps.java(155)  - Expected Results Sub Str : results have been found
-INFO  [main]:13 Jun 2020 12:22:59,126 Steps.java(229)  - ===I am after hook. I get executed after every scenario==============
+INFO  [main]:21 Jun 2020 10:04:48,743 Steps.java(36)  - ===I am before hook. I get executed before every scenario==============
+INFO  [main]:21 Jun 2020 10:04:48,752 PropertiesUtil.java(17)  - Starting to read properties file
+INFO  [main]:21 Jun 2020 10:04:48,753 PropertiesUtil.java(34)  - Completed reading properties file and all properties are loaded into System properties succesfully
+INFO  [main]:21 Jun 2020 10:05:08,083 Steps.java(73)  - Page Title Is : My Store
+INFO  [main]:21 Jun 2020 10:05:10,696 Steps.java(154)  - Actual Results Str : 4 results have been found.
+INFO  [main]:21 Jun 2020 10:05:10,696 Steps.java(155)  - Expected Results Sub Str : results have been found
+INFO  [main]:21 Jun 2020 10:05:10,701 Steps.java(229)  - ===I am after hook. I get executed after every scenario==============
+INFO  [main]:21 Jun 2020 10:05:12,290 Steps.java(36)  - ===I am before hook. I get executed before every scenario==============
+INFO  [main]:21 Jun 2020 10:05:12,290 PropertiesUtil.java(17)  - Starting to read properties file
+INFO  [main]:21 Jun 2020 10:05:12,291 PropertiesUtil.java(34)  - Completed reading properties file and all properties are loaded into System properties succesfully
+INFO  [main]:21 Jun 2020 10:05:23,951 Steps.java(73)  - Page Title Is : My Store
+INFO  [main]:21 Jun 2020 10:05:25,452 Steps.java(112)  - "Expected Title : " + expectedTitle
+INFO  [main]:21 Jun 2020 10:05:25,452 Steps.java(115)  - Actual Title : Login - My Store
+INFO  [main]:21 Jun 2020 10:05:25,455 Steps.java(229)  - ===I am after hook. I get executed after every scenario==============

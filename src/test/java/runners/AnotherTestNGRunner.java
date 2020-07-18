@@ -12,8 +12,8 @@ import io.cucumber.testng.CucumberOptions;
 @CucumberOptions(features = {"src/test/resources/features/"},
 					glue= {"stepdefinitions"},
 					plugin = {"html:target/reports/htmlreports","json:target/reports/jsonreports/myjsonreport.json"},
-					tags = {"@AuthenticationTests"}
+					tags = {"@SearchTests"}
 		)
-public class TestNGRunner extends AbstractTestNGCucumberTests{
+public class AnotherTestNGRunner extends AbstractTestNGCucumberTests{
 
 }
